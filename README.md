@@ -1,5 +1,13 @@
-## Hi there 👋
+# Hello, World! 👋
 
+### About Me
+Hi there! I'm Kean, a developer with an interest in backend and low level programming.
+I enjoy working with electronics, mechanics and programming software.
+
+### Contact Me
+Feel free to reach out to me:
+- Email: keanbuyst@gmail.com
+- LinkedIn: https://linkedin.com/in/kean-buyst-341965270
 <!--
 **KeanBuyst/KeanBuyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
